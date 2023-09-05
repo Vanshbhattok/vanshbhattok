@@ -1,5 +1,11 @@
-### Hi there 👋
-My name is Vansh bhatt and i am 18 and currently studying in upes and always awalaible for team work
++### Hi there 👋
+Jai hind to all:)
+My name is Vansh bhatt 
+i am 18 years old
+studying in upes Btech(CS) 
+I am always awalaible for team work to produce something productive.
+My hobbies are:-Public speaking,Debating and playing Badminton:)
+
 <!--
 **Vanshbhattok/vanshbhattok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
