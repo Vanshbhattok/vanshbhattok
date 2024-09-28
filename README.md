@@ -2,7 +2,8 @@
 - Jai hind to all:)
 - My name is Vansh bhatt 
 - I am 19 years old
-- studying in UPES Btech(CS) 
+- studying in UPES Btech(CS)
+- Devops Enthusiast
 - I am always availaible for team work to produce something productive.
 - My hobbies are:-Public speaking,Debating and playing Badminton and Gyming:)
 
