@@ -6,38 +6,42 @@
 
 ## 🚀 About Me
 
- 🌱 Learning: DevOps tools, cloud technologies, and software development practices.\n
+### 🌱 Learning: DevOps tools, cloud technologies, and software development practices.\n
 
- 💡 Interests: Automation, CI/CD pipelines, and cloud-native solutions.
+### 💡 Interests: Automation, CI/CD pipelines, and cloud-native solutions.
 
-👯 Collaboration: Always open to collaborating on exciting projects or hackathons.
+### 👯 Collaboration: Always open to collaborating on exciting projects or hackathons.
 
-📫 Reach Me: [Your Email or LinkedIn Profile]
+### 📫 Reach Me: email:- vanshbhattok@gmail.com
+### 📫 Reach Me: LinkedIn:- https://www.linkedin.com/in/vansh-bhatt-1238jaihind/
+\n
 
-🛠️ Skills & Tools
-DevOps Tools: Docker, Kubernetes, Jenkins, Git, Ansible
+## 🛠️ Skills & Tools
 
-Cloud Platforms: AWS, Azure, Google Cloud
+### DevOps Tools: Leaning about Docker, Kubernetes, Jenkins, Git, Ansible
 
-Programming Languages: Python, Java, C++
+### Cloud Platforms: Exploaring AWS, Azure, Google Cloud
 
-Other Skills: Public Speaking, Debating, Team Collaboration
+### Programming Languages: Java, C, Python
 
-🏆 Hobbies
-🎤 Public Speaking: Love sharing ideas and inspiring others.
+### Other Skills: Public Speaking, Debating, Team Collaboration
 
-🗣️ Debating: Enjoy discussing diverse perspectives and solving problems.
+## 🏆 Hobbies
 
-🏸 Badminton: Staying active and competitive on the court.
+### 🎤 Public Speaking: Love sharing ideas and inspiring others.
 
-💪 Gymming: Passionate about fitness and self-improvement.
+### 🗣️ Debating: Enjoy discussing diverse perspectives and solving problems.
 
-📸 Featured Image
-225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9
+### 🏸 Badminton: Staying active and competitive on the court.
 
-🌟 Fun Fact
-I believe in the power of continuous learning and self-improvement. Whether it’s mastering a new tech skill or hitting a new personal record at the gym, I’m always up for a challenge!
+### 💪 Gymming: Passionate about fitness and self-improvement.
 
-Let’s connect and build something amazing together! 😄
+
+
+## 🌟 Fun Fact
+
+### I believe in "Kaam vhi karro jo krna hi phal lage!"
+
+## Let’s connect and build something amazing together! 😄
 LinkedIn
 GitHub
