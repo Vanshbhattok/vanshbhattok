@@ -1,45 +1,32 @@
-# Hi there 👋
-## Jai Hind to all! 🇮🇳
-### I’m Vansh Bhatt, a 19-year-old DevOps Enthusiast and Tech Explorer currently pursuing B.Tech in Computer Science at UPES.
+<h1 align="center">Hi 👋, I'm Vansh Bhatt</h1>
+<h3 align="center">A full-Stack and DevOps learner from India</h3>
 
-### I’m passionate about leveraging technology to build innovative solutions and thrive in collaborative environments. I’m always ready to contribute to teamwork and create something productive and impactful.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshbhattok&label=Profile%20views&color=0e75b6&style=flat" alt="vanshbhattok" /> </p>
 
-## 🚀 About Me
+- 🌱 I’m currently learning **React, NextJS, API's and Cloud tech**
 
-#### 🌱 Learning: DevOps tools, cloud technologies, and software development practices.
+- 👯 I’m looking to collaborate on **Open Source, Full Stack and Cloud Based projects**
 
-#### 💡 Interests: Automation, CI/CD pipelines, and cloud-native solutions.
+- 📝 I am active on DEV Community [https://dev.to/vanshbhatt](https://dev.to/vanshbhatt)
 
-#### 👯 Collaboration: Always open to collaborating on exciting projects or hackathons.
+- 📫 How to reach me **vanshbhattok@gmail.com**
 
-### 📫 Reach Me: email:- vanshbhattok@gmail.com
-### 📫 Reach Me: LinkedIn:- https://www.linkedin.com/in/vansh-bhatt-1238jaihind/
+- ⚡ Fun fact **Nothing changes if Nothing changes**
 
-## 🛠️ Skills & Tools
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/vanshbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vanshbhatt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vansh bhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh bhatt" height="30" width="40" /></a>
+<a href="https://discord.gg/vanshbhatt_87726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vanshbhatt_87726" height="30" width="40" /></a>
+</p>
 
-#### DevOps Tools: Leaning about Docker, Kubernetes, Jenkins, Git, Ansible
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-#### Cloud Platforms: Exploaring AWS, Azure, Google Cloud
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshbhattok&show_icons=true&locale=en&layout=compact" alt="vanshbhattok" /></p>
 
-#### Programming Languages: Java, C, Python
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshbhattok&show_icons=true&locale=en" alt="vanshbhattok" /></p>
 
-#### Other Skills: Public Speaking, Debating, Team Collaboration
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbhattok&" alt="vanshbhattok" /></p>
 
-## 🏆 Hobbies
-
-#### 🎤 Public Speaking: Love sharing ideas and inspiring others.
-
-#### 🗣️ Debating: Enjoy discussing diverse perspectives and solving problems.
-
-#### 🏸 Badminton: Staying active and competitive on the court.
-
-#### 💪 Gymming: Passionate about fitness and self-improvement.
-
-
-
-## 🌟 Fun Fact
-
-### I believe in "Kaam vhi karro jo krna hi phal lage!"
-
-## Let’s connect and build something amazing together! 😄
 
