@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vanshbhattok@gmail.com**
 
-- ⚡ Fun fact **Nothing changes if Nothing changes**
+- ⚡ Fun fact **Nothing changes if Nothing changes👍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
